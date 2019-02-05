@@ -1,0 +1,19 @@
+Sample:	Donor	Cellular State	Condition	Count	Live | Freq. of Parent	Live/CCR7+ CD45RO+ | Freq. of Parent	Live/CCR7+ CD45RO- | Freq. of Parent	Live/CCR7- CD45RO+ | Freq. of Parent	Live/CCR7- CD45RO- | Freq. of Parent	Live/GFP+ | Freq. of Parent	Live/GFP+/CCR7+ CD45RO+ | Freq. of Parent	Live/GFP+/CCR7+ CD45RO- | Freq. of Parent	Live/GFP+/CCR7- CD45RO+ | Freq. of Parent	Live/GFP+/CCR7- CD45RO- | Freq. of Parent	Live/GFP- | Freq. of Parent	Live/GFP-/CCR7+ CD45RO+ | Freq. of Parent	Live/GFP-/CCR7+ CD45RO- | Freq. of Parent	Live/GFP-/CCR7- CD45RO+ | Freq. of Parent	Live/GFP-/CCR7- CD45RO- | Freq. of Parent
+a35e.fcs	Donor 35	Activated	Mock electroporation	5.43E+05	62.2	74.5	13.5	7.22	4.77	0.41	96.4	0.79	2.64	0.21	99.6	74.4	13.6	7.24	4.79
+a35m.fcs	Donor 35	Activated	NDG mRNA electroporation	5.61E+05	63.1	68.9	17.9	8.13	5.08	84.4	73.6	16.9	7.07	2.5	15.6	43.9	23.3	13.9	19
+a35o.fcs	Donor 35	Activated	No electroporation	8.59E+05	69.7	77.8	11	7.18	4.05	0.5	96.7	0.63	2.5	0.13	99.5	77.7	11	7.2	4.07
+a40e.fcs	Donor 40	Activated	Mock electroporation	309326	53.3	74.8	9.26	12.7	3.33	0.39	96.4	1.72	1.56	0.31	99.6	74.7	9.29	12.7	3.34
+a40m.fcs	Donor 40	Activated	NDG mRNA electroporation	320201	59.6	72.6	14	10.6	2.81	92	74.6	13.8	9.72	1.87	7.97	49.2	16.7	20.4	13.7
+a40o.fcs	Donor 40	Activated	No electroporation	5.32E+05	71	78.8	8.07	11.2	1.84	0.22	93.6	2.42	3.63	0.36	99.8	78.8	8.08	11.3	1.85
+a41e.fcs	Donor 41	Activated	Mock electroporation	347627	64.3	89.6	5.86	3.86	0.63	0.21	96.2	0.84	2.51	0.42	99.8	89.6	5.87	3.86	0.63
+a41m.fcs	Donor 41	Activated	NDG mRNA electroporation	315475	58.5	81.1	13.1	4.83	0.89	91.8	82	13.2	4.22	0.61	8.2	71.2	13.1	11.6	4.02
+a41o.fcs	Donor 41	Activated	No electroporation	5.98E+05	72.5	90.6	4.73	4.24	0.42	0.18	96.1	0.25	3.66	0	99.8	90.6	4.74	4.24	0.42
+u35e.fcs	Donor 35	Unstimulated	Mock electroporation	9.25E+05	84.1	26.8	38.7	25.1	9.41	0.64	60.7	26.8	8.72	3.76	99.4	26.5	38.8	25.2	9.45
+u35m.fcs	Donor 35	Unstimulated	NDG mRNA electroporation	8.99E+05	88.3	25.3	37.7	27.1	9.93	17.3	28.8	18.3	38.4	14.4	82.7	24.6	41.7	24.7	8.99
+u35o.fcs	Donor 35	Unstimulated	No electroporation	1.02E+06	89.3	27.1	36.8	26.7	9.41	0.62	58.1	26.1	10.7	5.08	99.4	26.9	36.9	26.8	9.43
+u40e.fcs	Donor 40	Unstimulated	Mock electroporation	5.60E+05	84.6	30.5	47.4	17.7	4.45	0.74	57.5	8.71	29.7	4.03	99.3	30.3	47.7	17.6	4.45
+u40m.fcs	Donor 40	Unstimulated	NDG mRNA electroporation	7.43E+05	87.3	29	47.4	18.9	4.66	28.3	37.7	16.8	36.7	8.83	71.7	25.6	59.5	11.9	3.01
+u40o.fcs	Donor 40	Unstimulated	No electroporation	6.81E+05	86.2	33	45.1	18.1	3.76	0.72	62.7	4.81	31.3	1.25	99.3	32.8	45.4	18	3.78
+u41e.fcs	Donor 41	Unstimulated	Mock electroporation	5.98E+05	76.5	24.4	41	26.2	8.43	0.54	65.6	18.8	10.8	4.81	99.5	24.1	41.1	26.3	8.45
+u41m.fcs	Donor 41	Unstimulated	NDG mRNA electroporation	7.14E+05	85.2	23.1	39.3	29.2	8.45	32.1	26.7	13.6	48.1	11.7	67.9	21.3	51.4	20.3	6.92
+u41o.fcs	Donor 41	Unstimulated	No electroporation	6.35E+05	85.9	25.7	38.7	28.3	7.27	0.51	72.7	11.6	13.4	2.28	99.5	25.5	38.8	28.4	7.3
