@@ -1,0 +1,25 @@
+Sample:	Donor	Electroporation	Activation	Live | Freq. of Parent	Live/GFP+ | Freq. of Parent
+30bead+.fcs	Donor 30	NDG plasmid	Bead	23.8	1.68
+30bead-.fcs	Donor 30	no DNA	Bead	43.7	0.16
+30noact+.fcs	Donor 30	NDG plasmid	No activation	36.7	0.57
+30noact-.fcs	Donor 30	no DNA	No activation	56.7	0.14
+30pma+.fcs	Donor 30	NDG plasmid	PMA/Ionomycin	15.9	3.29
+30pma-.fcs	Donor 30	no DNA	PMA/Ionomycin	22.9	0.18
+31bead+.fcs	Donor 31	NDG plasmid	Bead	9.39	2.67
+31bead-.fcs	Donor 31	no DNA	Bead	10.8	0.99
+31noact+.fcs	Donor 31	NDG plasmid	No activation	11.9	1.96
+31noact-.fcs	Donor 31	no DNA	No activation	13	0.8
+31pma+.fcs	Donor 31	NDG plasmid	PMA/Ionomycin	6.03	5.26
+31pma-.fcs	Donor 31	no DNA	PMA/Ionomycin	6.23	1.83
+34bead+.fcs	Donor 34	NDG plasmid	Bead	61.1	0.27
+34bead-.fcs	Donor 34	no DNA	Bead	74.3	0.1
+34noact+.fcs	Donor 34	NDG plasmid	No activation	64.5	0.23
+34noact-.fcs	Donor 34	no DNA	No activation	82.4	0.16
+34pma+.fcs	Donor 34	NDG plasmid	PMA/Ionomycin	34.6	0.73
+34pma-.fcs	Donor 34	no DNA	PMA/Ionomycin	44.1	0.1
+35bead+.fcs	Donor 35	NDG plasmid	Bead	66.5	0.19
+35bead-.fcs	Donor 35	no DNA	Bead	77.7	0.056
+35noact+.fcs	Donor 35	NDG plasmid	No activation	73.9	0.16
+35noact-.fcs	Donor 35	no DNA	No activation	77.2	0.067
+35pma+.fcs	Donor 35	NDG plasmid	PMA/Ionomycin	46.6	0.32
+35pma-.fcs	Donor 35	no DNA	PMA/Ionomycin	53.2	0.026
